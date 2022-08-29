@@ -1,0 +1,15 @@
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\Singleton_Handson.exe
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\Singleton_Handson.deps.json
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\Singleton_Handson.runtimeconfig.json
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\Singleton_Handson.dll
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\ref\Singleton_Handson.dll
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\bin\Debug\net6.0\Singleton_Handson.pdb
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.csproj.AssemblyReference.cache
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.AssemblyInfoInputs.cache
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.AssemblyInfo.cs
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.csproj.CoreCompileInputs.cache
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.dll
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\ref\Singleton_Handson.dll
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.pdb
+C:\Users\2064588\source\repos\Singleton_Handson\Singleton_Handson\obj\Debug\net6.0\Singleton_Handson.genruntimeconfig.cache
